@@ -1,4 +1,4 @@
-# beatriz@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
@@ -170,4 +170,4 @@ footer p {
     font-size: 1rem;
     font-weight: 300;
 }
-jesus
+
